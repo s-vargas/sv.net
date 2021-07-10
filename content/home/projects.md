@@ -17,7 +17,7 @@ content:
   page_type: project
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 0
+#  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
@@ -25,12 +25,12 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Race
-    tag: race
-  - name: Other
-    tag: other
+#  - name: All
+#    tag: '*'
+#  - name: Race
+#    tag: race
+#  - name: Other
+#    tag: other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
