@@ -2,7 +2,7 @@
 title: Sonia A. Vargas
 role: PhD Student
 avatar_filename: avatar.jpg
-bio: "Raised in Jacksonville Florida"
+bio: ""
 interests: [Race and Identity, American Politics, Data Science]
 social:
   - icon: envelope
@@ -29,3 +29,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+Young Hispanic future researcher and current PhD student raised in Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often watching a show, crocheting, or reading. 
