@@ -3,7 +3,7 @@ title: Sonia Vargas
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: "Raised in Jacksonville Florida"
-interests: [Race and Identity, American Politics, Data Sciencce]
+interests: [Race and Identity, American Politics, Data Science]
 social:
   - icon: envelope
     icon_pack: fas
