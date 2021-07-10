@@ -7,7 +7,7 @@
 
 theme: forest
 day_night: true
-font: ''
+font: 'minimal'
 font_size: M
 
 # SEO
@@ -16,26 +16,26 @@ site_type: Person
 local_business_type: ''
 org_name: ''
 description: ''
-twitter: ''
+#twitter: ''
 
-# Contact (edit or remove options as required)
+#Contact (edit or remove options as required)
 
-#email: svargas@umd.edu
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: Twitter
-#    link: 'https://twitter.com/Twitter'
-#  - icon: linkedin
-#    icon_pack: fab
-#    name: LinkedIn
-#    link: 'https://www.linkedin.com/in/sonia-vargas-80a505150/'
+email: svargas@umd.edu
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Twitter
+    link: 'https://twitter.com/Twitter'
+  - icon: linkedin
+    icon_pack: fab
+    name: LinkedIn
+    link: 'https://www.linkedin.com/in/sonia-vargas-80a505150/'
 
 # Site header
 
 main_menu:
   enable: true
-  align: l
+  align: r
   show_logo: true
   show_language: false
   show_day_night: false
