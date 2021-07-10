@@ -1,5 +1,5 @@
 ---
-title: Sonia Vargas
+title: Sonia A. Vargas
 role: PhD Student
 avatar_filename: avatar.jpg
 bio: "Raised in Jacksonville Florida"
