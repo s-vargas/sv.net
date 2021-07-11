@@ -7,7 +7,7 @@ interests: [Race and Identity, American Politics, Data Science]
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: mailto:svargas@umd.edu
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/sonia-vargas-80a505150/
@@ -25,7 +25,7 @@ education:
     - course: B.A. Anthropology
       institution: The University of Florida
       year: 2021
-email: "mailto:svargas@umd.edu"
+email: "svargas@umd.edu"
 superuser: true
 highlight_name: false
 ---
