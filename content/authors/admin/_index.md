@@ -29,4 +29,4 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Young Hispanic future researcher and current PhD student raised in Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often watching a show, crocheting, or reading. 
+Future researcher and current PhD student from Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often watching a TV show, crocheting, or reading. 
