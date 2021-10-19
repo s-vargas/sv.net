@@ -20,7 +20,6 @@ organizations:
 education:
   courses:
     - course: B.A. Political Science
-      Magna Cum Laude
       institution: The University of Florida
       year: 2021
     - course: B.A. Anthropology
@@ -30,4 +29,4 @@ email: "svargas@umd.edu"
 superuser: true
 highlight_name: false
 ---
-Current PhD student at UMD from Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often enjoying a TV show, crocheting, or reading. 
+Current PhD student in Government and Politics at the University of Maryland. From Jacksonville, Florida, growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often enjoying a TV show, crocheting, or reading. 
