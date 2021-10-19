@@ -19,7 +19,8 @@ organizations:
     url: https://gvpt.umd.edu/gradprofile/vargas/sonia
 education:
   courses:
-    - course: B.A. Political Science /n Magna Cum Laude
+    - course: B.A. Political Science
+      Magna Cum Laude
       institution: The University of Florida
       year: 2021
     - course: B.A. Anthropology
