@@ -1,6 +1,6 @@
 ---
 title: Sonia A. Vargas
-role: PhD Student
+role: Graduate Student
 avatar_filename: avatar.jpg
 bio: ""
 interests: [Race and Identity, American Politics, Data Science]
@@ -16,10 +16,10 @@ social:
     link: https://twitter.com/soniaavar
 organizations:
   - name: University of Maryland
-    url: https://www.gvpt.umd.edu/
+    url: https://gvpt.umd.edu/gradprofile/vargas/sonia
 education:
   courses:
-    - course: B.A. Political Science
+    - course: B.A. Political Science /n Magna Cum Laude
       institution: The University of Florida
       year: 2021
     - course: B.A. Anthropology
@@ -29,4 +29,4 @@ email: "svargas@umd.edu"
 superuser: true
 highlight_name: false
 ---
-Future researcher and current PhD student from Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often watching a TV show, crocheting, or reading. 
+Current PhD student at UMD from Jacksonville, Florida. Growing up in diverse environments sparked my interest in race and identity at an early age. In my free time I am often enjoying a TV show, crocheting, or reading. 
